@@ -1,2 +1,3 @@
 # AI-Agent-Assistant
 A Streamlit chatbot powered by Google Gemini and LangChain, with internet search, a calculator, local notes, and streaming responses.
+AI Agent Assistant is a Streamlit chatbot that uses Google Gemini through LangChain to answer questions in a conversational interface. The agent can use tools to search the internet for current information, calculate mathematical expressions, and read local notes. The app streams responses as they’re generated and keeps chat history during the session, with an option to clear the conversation. It’s a hands-on example of connecting a language model to tools in a Python application.
